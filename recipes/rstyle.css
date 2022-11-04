@@ -1,0 +1,13 @@
+h1 {
+    font-weight: bold;
+    background-color: lightslategray;
+    color: red;
+}
+img {
+    height: auto;
+    width: 300px;
+}
+li {
+    font-style: oblique;
+    background-color: lightgrey;
+}
